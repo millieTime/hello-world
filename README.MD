@@ -6,7 +6,7 @@ The main point for doing so was to have some fun while learning about GitHub and
 
 The following video provides a walkthrough and explanation of the code:
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/vR9P24D-k68)
 
 # Development Environment
 
